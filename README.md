@@ -8,4 +8,5 @@
 # This is my new update
 # confict time... Update by local PC
 # new update on github...
-# Resolved!
+# Resolved
+# for merge...!
